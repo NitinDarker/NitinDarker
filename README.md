@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=aarushi-bhatia&theme=radical&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NitinDarker&theme=radical&border_radius=6)](https://git.io/streak-stats)
 
 <!--
 **NitinDarker/NitinDarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
