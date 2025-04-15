@@ -1,15 +1,41 @@
+## 👋 Hey there, I’m Nitin
+
+I write code that works. Then I make it faster.
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,git,github,vscode,linux,figma" />
+</p>
+
+---
+
+## 🚀 GitHub & LeetCode Stats
+
+<div align="center">
+
+### 🔥 GitHub Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=NitinDarker&theme=radical&border_radius=6)](https://git.io/streak-stats)
-<table>
-  <tr>
-<!--     <td width="50%">
-      <a href="https://discord.com/users/768679363767697430">
-        <img src="https://lanyard.cnrad.dev/api/768679363767697430?animated=false&theme=dark&borderRadius=10px&hideActivity=false&showDisplayName=true" alt="Discord Presence" width="100%">
-      </a>
-    </td> -->
-    <td width="80%">
-      <a href="https://leetcode.com/NitinDarker/">
-        <img src="https://leetcard.jacoblin.cool/NitinDarker?theme=radical&font=Noto%20Sans%20Mandaic&ext=heatmap" alt="LeetCode Stats" width="100%">
-      </a>
-    </td>
-  </tr>
-</table>
+
+---
+
+### 🧠 LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NitinDarker?theme=radical&font=Noto%20Sans%20Mandaic&ext=heatmap)](https://leetcode.com/NitinDarker/)
+
+</div>
+
+---
+
+## 🤝 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nitin-sharma-8b49b0303/)
+- 🧠 [LeetCode](https://leetcode.com/NitinDarker/)
+- 👨‍💻 GitHub: **[@NitinDarker](https://github.com/NitinDarker)**
+
+---
+
+> “You write code like you mean it, or you don’t write it at all.”
