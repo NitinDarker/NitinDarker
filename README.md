@@ -9,7 +9,7 @@
 <tr>
 <td valign="top" width="50%">
 
-<h3>🧠 LeetCode Progress</h3>
+### 🧠 LeetCode Progress
 
 <a href="https://leetcode.com/NitinDarker/">
   <img src="https://leetcard.jacoblin.cool/NitinDarker?theme=radical&font=Noto%20Sans%20Mandaic&ext=heatmap" alt="LeetCode Stats">
@@ -18,15 +18,14 @@
 </td>
 <td valign="top" width="50%">
 
-<h3>🤝 Let’s Connect</h3>
+### 🤝 Let’s Connect
 
-- 🔗 <a href="https://www.linkedin.com/in/nitin-sharma-8b49b0303/">LinkedIn</a>  
-- 🧠 <a href="https://leetcode.com/NitinDarker/">LeetCode</a>  
-- 👨‍💻 <a href="https://github.com/NitinDarker">GitHub: @NitinDarker</a>  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nitin-sharma-8b49b0303/)
+- 🧠 [LeetCode](https://leetcode.com/NitinDarker/)
+- 🛠️ [GitHub](https://github.com/NitinDarker/)
 
 </td>
 </tr>
 </table>
-
 
 > “You write code like you mean it, or you don’t write it at all.”
