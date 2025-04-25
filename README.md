@@ -1,9 +1,14 @@
 ### 👋 Hey there, I’m Nitin
 
 ## 🧰 Skills
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,git,github,vscode,linux,figma" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,mongodb,express,react,nodejs,html,css,tailwind,vite,vitest,c,python,rust,vim,linux&perline=18" />
 </p>
+  </a>
+</p>
+
 
 <table>
 <tr>
