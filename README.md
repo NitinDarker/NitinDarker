@@ -2,9 +2,9 @@
 
 ## 🧰 Skills
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,mongodb,express,react,nodejs,html,css,tailwind,vite,vitest,c,python,rust,vim,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,mongodb,express,react,nodejs,html,css,tailwind,vite,vitest,c,python,rust,vim,linux&perline=18" />
 </p>
   </a>
 </p>
