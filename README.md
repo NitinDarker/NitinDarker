@@ -15,7 +15,7 @@
 
 ### 🧠 LeetCode Progress
 
-<a href="https://leetcode.com/NitinDarker/">
+<a href="https://leetcode.com/NitinDarker/" target="_blank" rel="noopener noreferrer">
   <img src="https://leetcard.jacoblin.cool/NitinDarker?theme=radical&font=Noto%20Sans%20Mandaic&ext=heatmap" alt="LeetCode Stats">
 </a>
 
@@ -25,22 +25,22 @@
 ### 🤝 Let’s Connect
 <div align="center">
   <div>
-    <a href="https://www.linkedin.com/in/nitin-sharma-8b49b0303/">
+    <a href="https://www.linkedin.com/in/nitin-sharma-8b49b0303/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </div>
   <div>
-    <a href="https://twitter.com/nitindarker">
+    <a href="https://twitter.com/nitindarker" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
   </div>
   <div>
-    <a href="https://github.com/NitinDarker">
+    <a href="https://github.com/NitinDarker" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </div>
   <div>
-    <a href="https://leetcode.com/NitinDarker/">
+    <a href="https://leetcode.com/NitinDarker/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
   </div>
