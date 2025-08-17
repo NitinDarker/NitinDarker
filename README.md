@@ -1,14 +1,13 @@
-### 👋 Hey there, I’m Nitin
-
+### 👋 Hey there, I'm Nitin
 
 ## 🧰 Skills
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,next,mongodb,express,react,nodejs,html,css,tailwind,vite,c,python,rust,linux&perline=17" />
-</p>
+<div align="center">
+  <a href="https://github.com/NitinDarker">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,express,react,next,nodejs,mongodb,postgres,prisma,html,css,tailwind&perline=15" />
+    <img src="https://skillicons.dev/icons?i=python,rust,redis,docker,kubernetes,vite,graphql,aws,vim,neovim,linux&perline=15" />
   </a>
-</p>
+</div>
 
 <table>
 <tr>
@@ -25,7 +24,8 @@
 
 ### 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nitin-sharma-8b49b0303/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nitin-sharma-8b49b0303/)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/NitinDarker/)
 - 🧠 [LeetCode](https://leetcode.com/NitinDarker/)
 - 🛠️ [GitHub](https://github.com/NitinDarker/)
 
