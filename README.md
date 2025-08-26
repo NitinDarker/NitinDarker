@@ -1,6 +1,5 @@
 ### 👋 Hey there, I'm Nitin
 
-
 ## 🧰 Skills
 
 <div align="center">
