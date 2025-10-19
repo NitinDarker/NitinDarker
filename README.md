@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/NitinDarker">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,express,react,next,nodejs,mongodb,postgres,prisma,html,css,tailwind&perline=15" />
-    <img src="https://skillicons.dev/icons?i=c,python,rust,redis,docker,kubernetes,vite,graphql,aws,vim,neovim,linux&perline=15" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,express,react,next,nodejs,mongodb,postgres,prisma,html,css,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,python,rust,redis,docker,kubernetes,vite,graphql,aws,vim,linux&perline=15" />
   </a>
 </div>
 
